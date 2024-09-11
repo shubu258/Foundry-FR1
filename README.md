@@ -64,3 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+1. Proper Readme (Done)
+2. Integration tests (Done)
+3. Program Verification (Done)
+4. Push to GitHub 
